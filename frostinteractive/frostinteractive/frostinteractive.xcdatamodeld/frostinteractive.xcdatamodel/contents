@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="18G103" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="NotesData" representedClassName="NotesData" syncable="YES" codeGenerationType="class">
+        <attribute name="noteDate" optional="YES" attributeType="String"/>
+        <attribute name="noteDescription" optional="YES" attributeType="String"/>
+        <attribute name="noteID" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="noteImage" optional="YES" attributeType="Binary"/>
+        <attribute name="noteTag" optional="YES" attributeType="String"/>
+        <attribute name="noteTitle" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="NotesData" positionX="-63" positionY="-18" width="128" height="133"/>
+    </elements>
+</model>
